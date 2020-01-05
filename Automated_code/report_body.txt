@@ -1,0 +1,9 @@
+<h3>Crop Calendar for Start of Season (SOS) {{season}} </h3>
+<img src={{min_ndvi_image}} alt=Min NDVI  />
+
+<br></br>
+
+<h3> Max NDVI Value for End of  Season (EOS) {{season}} </h3>
+<img src={{max_ndvi_image}} alt=Maximum NDVI  />
+
+<br></br>
